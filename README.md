@@ -26,9 +26,9 @@ argoverse2
 
 
 
-## 8. References
-[基于3dgs和diffusion的自动驾驶闭环仿真论文总结](https://zhuanlan.zhihu.com/p/1925525419739834361)<br>
-[HUGSIM](https://github.com/hyzhou404/HUGSIM)<br>
+## 6. References
+1. [基于3dgs和diffusion的自动驾驶闭环仿真论文总结](https://zhuanlan.zhihu.com/p/1925525419739834361)<br>
+2. [HUGSIM](https://github.com/hyzhou404/HUGSIM)<br>
 
 ## 7. License
 This project is licensed under the Apache License 2.0.
